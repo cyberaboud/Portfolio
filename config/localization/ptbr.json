@@ -1,0 +1,116 @@
+{
+	"id": "ptbr",
+	"navbarMenu": {
+	  "labelHome": "ACCUEIL",
+	  "labelServices": "MES DOMAINES",
+	  "labelAboutMe": "À PROPOS DE MOI",
+	  "labelPortifolio": "PROJETS",
+	  "labelExperience": "EXPÉRIENCE"
+	},
+	"landingPage": {
+	  "apresentationText": "Hello World,",
+	  "firstTypeText": "le développeur dont vous avez besoin...",
+	  "secondTypeText": "Mohamed Taher Aboud",
+	  "resumeText": "Fasciné par l’informatique et par ses enjeux sécuritaires, je m’oriente dans les métiers de la cybersécurité. Créatif et persévérant, j’aime relever les défis en équipe pour répondre aux enjeux actuels en termes de sécurité informatique.",
+	  "buttonText": "En savoir plus"
+	},
+	"servicesOffer": {
+		"title": "Mes domaines",
+		"cards": {
+			"forensique": {
+				"title": "Forensique",
+				"contentText": "Solide connaissances des principes de base de la forensique informatique, y compris les méthodes d'acquisition de données, d'analyse des données et de présentation des preuves."
+			},
+			"devsecops": {
+				"title": "DevSecOps",
+				"contentText": "Forte compréhension du développement, de la sécurité informatique et de la conformité réglementaire. Compétent en sécurité réseau, tests d'intrusion."
+			},
+			"pentesting": {
+				"title": "Pentesting",
+				"contentText": "Test d'intrusion et vulnérabilités courantes. Reconnaissance, exploitation, post-exploitation et reporting. Indentification et correction des vulnérabilités pour assurer la sécurité des systèmes et des réseaux."
+			},
+			"developpement": {
+				"title": "Développement",
+				"contentText": "Expertise en C#, Python, C++, JavaScript, Bash, Docker et autres. Utilisation avancée de Github pour la gestion de versions et la collaboration sur des projets personnels et professionnels. "
+			}
+		}
+	},
+	"aboutMePage": {
+	  "title": "À PROPOS DE MOI",
+	  "paragraph_one": "Étudiant en dernière année à l'ENIT, je travaille actuellement chez Pwn & Patch en tant que consultant en cybersécurité",
+	  "paragraph_two": "Ingénieur en cybersécurité expérimenté, je suis passionné par la protection des données et la sécurité informatique. Avec de l'expérience dans l'industrie, je suis spécialisé dans la mise en place de systèmes de sécurité solides pour les entreprises de toutes tailles. Je suis également compétent en matière de tests de pénétration, de conformité réglementaire et de gestion des incidents de sécurité. Mon objectif est de fournir des solutions de sécurité avancées pour aider à protéger les actifs numériques.",
+	  "paragraph_three": "En tant que self-hosteur, je crois fermement que chacun devrait avoir le contrôle total sur ses données et ses services en ligne. C'est pourquoi je me suis spécialisé dans l'hébergement de mes propres sites web, applications et services, pour éviter la dépendance aux grands fournisseurs de services en ligne. J'aime partager mes connaissances et expériences avec les autres pour les aider à comprendre les avantages du self-hébergement et à se lancer dans l'aventure. Mon objectif est de faciliter l'accès à l'autonomie en matière de technologies numériques pour tous.",
+	  "github_card": {
+		"bio": "🧑‍💻 Ingénieur Cybersécurité",
+		"bio1": "🛡️ Consultant en Cybersécurité chez Pwn & Patch",
+		"bio2": "⚔️ Auteur & Joueur CTF",
+		"bio3": "📚 Étudiant à ENIT",
+		"followers": "Abonnés",
+		"following": "Abonnements",
+		"repos": "Dépôts"
+	  },
+	  "pdf":"curriculoPTBR",
+	  "alt_dev_img": "Nizar Zaidoun"
+	},
+	"portifolioPage": {
+	  "title": "PROJETS",
+	  "labelFilter": "TOUS",
+	  "createdLabel": "Créé à",
+	  "projects": {
+		"id_1": {
+			"title": "Solution de surveillance SOC Graylog",
+			"description": "N/A"
+		},
+		"id_2": {
+			"title": "Application Web Django ",
+			"description": "N/A"
+		},
+		"id_3": {
+			"title": "Mise en place d'un lab Active Directory vulnérable pour la formation en test de pénétration.",
+			"description": "N/A"
+		},
+		"id_4": {
+			"title": "Mes CTFS",
+			"description": "N/A"
+		}
+	  }
+	},
+	"experiencePage": {
+	  "title": "EXPÉRIENCE",
+	  "timeline": {
+		"labelPosition": "Poste",
+		"labelTitle": "Domaine d'études",
+		"labelCompany": "Entreprise",
+		"labelCategory": "Diplôme",
+		"labelInstitution": "École",
+		"labelProfessionalCourse": "Institution",
+		"labelBachelorDegree": "Diplôme d'Ingénieur'",
+		"labelExtensionCourse": "Cours de perfectionnement"
+	  }
+	},
+	"footer": {
+	  "labelNavigation": {
+		"title": "NAVIGATION",
+		"labelHome": "Accueil",
+		"labelServices": "Services",
+		"labelAboutMe": "À propos de moi",
+		"labelPortifolio": "Projets",
+		"labelExperience": "Expérience"
+	  },
+	  "labelHost": {
+		"title": "HÉBERGEMENT DU SITE WEB"
+	  },
+	  "labelSourceCode": {
+		"title": "CODE SOURCE"
+	  },
+	  "labelTechs": {
+		"title": "TECHNOLOGIES"
+	  },
+	  "labelStats": {
+		"title": "STATISTIQUES",
+		"stats": "Tableau de bord"
+	  },
+	  "labelBuildVersion": "Version de construction"
+	}
+  }
+  
