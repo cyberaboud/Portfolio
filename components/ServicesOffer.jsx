@@ -7,6 +7,8 @@ import { MagnifyingGlass } from "@styled-icons/entypo/MagnifyingGlass";
 import { ShieldKeyhole } from "@styled-icons/fluentui-system-filled/ShieldKeyhole";
 import { Password } from "@styled-icons/fluentui-system-filled/Password";
 import { CodeBlock } from "@styled-icons/boxicons-regular/CodeBlock";
+import { Gear } from "@styled-icons/octicons/Gear";
+import { Kalilinux } from "@styled-icons/simple-icons/Kalilinux";
 
 //Contexto
 import { SettingsContext } from "@/context/SettingsContext";
@@ -109,7 +111,7 @@ export default function _ServicesOffer() {
 			<ContainerGrid>
 				<ScrollAnimation animateIn="fadeIn" animateOnce delay={200}>
 					<CardService>
-						<MagnifyingGlass />
+						<Gear />
 						<h3>{language.servicesOffer.cards.forensique.title}</h3>
 						<p>{language.servicesOffer.cards.forensique.contentText}</p>
 					</CardService>
@@ -131,7 +133,7 @@ export default function _ServicesOffer() {
 				</ScrollAnimation>
 				<ScrollAnimation animateIn="fadeIn" animateOnce delay={800}>
 					<CardService>
-						<CodeBlock />
+						<Kalilinux />
 						<h3>{language.servicesOffer.cards.developpement.title}</h3>
 						<p>{language.servicesOffer.cards.developpement.contentText}</p>
 					</CardService>

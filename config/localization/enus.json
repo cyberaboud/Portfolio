@@ -18,8 +18,8 @@
 		"title": "My Domains",
 		"cards": {
 			"forensique": {
-				"title": "Forensics",
-				"contentText": "Strong knowledge of the fundamentals of digital forensics, including data acquisition methods, data analysis, and evidence presentation."
+				"title": "Reversing",
+				"contentText": "I excel at breaking down software and systems to understand their workings, pinpoint vulnerabilities, and analyze malicious code, Disassembly , Debugging and Malware analysis."
 			},
 			"devsecops": {
 				"title": "DevSecOps",
@@ -30,8 +30,8 @@
 				"contentText": "Common penetration testing and vulnerability assessment. Reconnaissance, exploitation, post-exploitation, and reporting. Identification and remediation of vulnerabilities to ensure system and network security."
 			},
 			"developpement": {
-				"title": "Development",
-				"contentText": "Expertise in C#, Python, C++, JavaScript, Bash, Docker, and more. Advanced use of GitHub for version control and collaboration on personal and professional projects."
+				"title": "Red Teaming",
+				"contentText": "I excel at simulating attacks to assess system security. I identify vulnerabilities, execute realistic attack scenarios, and provide recommendations to bolster security. I have expertise in social engineering, phishing."
 			}
 		}
 	},
@@ -49,7 +49,7 @@
 			"following": "Following",
 			"repos": "Repos"
 		},
-		"pdf":"curriculoENUS",
+		"pdf": "curriculoENUS",
 		"alt_dev_img": "Nizar Zaidoun"
 	},
 	"portifolioPage": {
